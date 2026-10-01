@@ -6,7 +6,19 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainMenu.unity
+    guid: 53c17265a6a07324d8ef800b331c61bb
+  - enabled: 1
+    path: Assets/Scenes/StageSelect.unity
+    guid: 4c292f192f358994f9e8e1570a313fec
+  - enabled: 1
+    path: Assets/Scenes/DesertRun.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/LoadingScreen.unity
+    guid: b3b149caf1266b042be5aaa872359a27
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: b1122ed5d9d789548a98c53080480b5b
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
